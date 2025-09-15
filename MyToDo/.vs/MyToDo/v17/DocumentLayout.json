@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\C#\\MyToDo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\extensions\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\extensions\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\controllers\\memocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\controllers\\memocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\services\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\services\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|e:\\code\\c#\\mytodo\\mytodo.shared\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|solutionrelative:mytodo.shared\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\services\\memoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\services\\memoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\services\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\services\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|e:\\code\\c#\\mytodo\\mytodo.shared\\parameters\\queryparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|solutionrelative:mytodo.shared\\parameters\\queryparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|e:\\code\\c#\\mytodo\\mytodo.shared\\dtos\\memodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|solutionrelative:mytodo.shared\\dtos\\memodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\services\\imemoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\services\\imemoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|e:\\code\\c#\\mytodo\\mytodo.shared\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|solutionrelative:mytodo.shared\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|e:\\code\\c#\\mytodo\\mytodo.shared\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|solutionrelative:mytodo.shared\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|e:\\code\\c#\\mytodo\\mytodo.shared\\mytodo.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A0BAD81-1FDE-4514-BE3B-2940836E2349}|MyToDo.Shared\\MyToDo.Shared.csproj|solutionrelative:mytodo.shared\\mytodo.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\repository\\memorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\repository\\memorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\unitofwork\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\unitofwork\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\unitofwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\unitofwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\mytodocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\mytodocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|e:\\code\\c#\\mytodo\\mytodo.api\\context\\memo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF6C6C3-7F9D-4986-9857-0B67D28C93EF}|MyToDo.Api\\MyToDo.Api.csproj|solutionrelative:mytodo.api\\context\\memo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MyToDo.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:49:59.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Services\\LoginService.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\LoginService.cs",
+              "RelativeToolTip": "MyToDo.Api\\Services\\LoginService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:38:44.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "MyToDo.Shared\\Dtos\\UserDto.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "MyToDo.Shared\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:36:08.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\ILoginService.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Services\\ILoginService.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\ILoginService.cs",
+              "RelativeToolTip": "MyToDo.Api\\Services\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:34:50.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemoController.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Controllers\\MemoController.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Controllers\\MemoController.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Controllers\\MemoController.cs",
+              "RelativeToolTip": "MyToDo.Api\\Controllers\\MemoController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:05:07.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Extensions\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Extensions\\AutoMapperProfile.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Extensions\\AutoMapperProfile.cs",
+              "RelativeToolTip": "MyToDo.Api\\Extensions\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:38:30.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\Dtos\\BaseDto.cs",
+              "RelativeDocumentMoniker": "MyToDo.Shared\\Dtos\\BaseDto.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\Dtos\\BaseDto.cs",
+              "RelativeToolTip": "MyToDo.Shared\\Dtos\\BaseDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:53:01.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Controllers\\ToDoController.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "MyToDo.Api\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAywB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:06:20.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\BaseEntity.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\BaseEntity.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:43:45.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Startup.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Startup.cs",
+              "RelativeToolTip": "MyToDo.Api\\Startup.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:47:45.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ToDoDto.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\Dtos\\ToDoDto.cs",
+              "RelativeDocumentMoniker": "MyToDo.Shared\\Dtos\\ToDoDto.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\Dtos\\ToDoDto.cs",
+              "RelativeToolTip": "MyToDo.Shared\\Dtos\\ToDoDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:53:38.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Services\\ApiResponse.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\ApiResponse.cs",
+              "RelativeToolTip": "MyToDo.Api\\Services\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:12:19.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QueryParameter.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\Parameters\\QueryParameter.cs",
+              "RelativeDocumentMoniker": "MyToDo.Shared\\Parameters\\QueryParameter.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\Parameters\\QueryParameter.cs",
+              "RelativeToolTip": "MyToDo.Shared\\Parameters\\QueryParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:07:56.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\IBaseService.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Services\\IBaseService.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\IBaseService.cs",
+              "RelativeToolTip": "MyToDo.Api\\Services\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:11:38.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\ToDoService.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Services\\ToDoService.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\ToDoService.cs",
+              "RelativeToolTip": "MyToDo.Api\\Services\\ToDoService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:15:42.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemoService.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\MemoService.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Services\\MemoService.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\MemoService.cs",
+              "RelativeToolTip": "MyToDo.Api\\Services\\MemoService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwEoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:00:58.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemoDto.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\Dtos\\MemoDto.cs",
+              "RelativeDocumentMoniker": "MyToDo.Shared\\Dtos\\MemoDto.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\Dtos\\MemoDto.cs",
+              "RelativeToolTip": "MyToDo.Shared\\Dtos\\MemoDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:00:03.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMemoService.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\IMemoService.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Services\\IMemoService.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\IMemoService.cs",
+              "RelativeToolTip": "MyToDo.Api\\Services\\IMemoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:00:37.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\ToDo.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\ToDo.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\ToDo.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\ToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:42:08.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IToDoService.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\IToDoService.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Services\\IToDoService.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Services\\IToDoService.cs",
+              "RelativeToolTip": "MyToDo.Api\\Services\\IToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:11:48.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyToDo.Shared",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\MyToDo.Shared.csproj",
+              "RelativeDocumentMoniker": "MyToDo.Shared\\MyToDo.Shared.csproj",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Shared\\MyToDo.Shared.csproj",
+              "RelativeToolTip": "MyToDo.Shared\\MyToDo.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T05:52:45.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MemoRepository.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\Repository\\MemoRepository.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\Repository\\MemoRepository.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\Repository\\MemoRepository.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\Repository\\MemoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:27:15.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\Repository\\UserRepository.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:28:09.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAASwDAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:45:10.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ToDoRepository.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\Repository\\ToDoRepository.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\Repository\\ToDoRepository.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\Repository\\ToDoRepository.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\Repository\\ToDoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:02:27.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\UnitOfWork\\Repository.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\UnitOfWork\\Repository.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\UnitOfWork\\Repository.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\UnitOfWork\\Repository.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:35:43.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\UnitOfWork\\IRepository.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\UnitOfWork\\IRepository.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\UnitOfWork\\IRepository.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\UnitOfWork\\IRepository.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAApwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:36:13.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:45:13.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MyToDo.Api\\appsettings.json",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\appsettings.json",
+              "RelativeToolTip": "MyToDo.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T03:47:16.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyToDoContext.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\MyToDoContext.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\MyToDoContext.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\MyToDoContext.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\MyToDoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:40:49.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\User.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\User.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\User.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:42:58.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Memo.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\Memo.cs",
+              "RelativeDocumentMoniker": "MyToDo.Api\\Context\\Memo.cs",
+              "ToolTip": "E:\\Code\\C#\\MyToDo\\MyToDo.Api\\Context\\Memo.cs",
+              "RelativeToolTip": "MyToDo.Api\\Context\\Memo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:42:37.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

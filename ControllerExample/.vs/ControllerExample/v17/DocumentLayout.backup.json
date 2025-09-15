@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\C#\\ControllerExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFCEEE8-7B07-4581-B71E-C56A6B58C5AA}|ControllerExample\\ControllerExample.csproj|e:\\code\\c#\\controllerexample\\controllerexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFCEEE8-7B07-4581-B71E-C56A6B58C5AA}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFCEEE8-7B07-4581-B71E-C56A6B58C5AA}|ControllerExample\\ControllerExample.csproj|e:\\code\\c#\\controllerexample\\controllerexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFCEEE8-7B07-4581-B71E-C56A6B58C5AA}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFCEEE8-7B07-4581-B71E-C56A6B58C5AA}|ControllerExample\\ControllerExample.csproj|e:\\code\\c#\\controllerexample\\controllerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFCEEE8-7B07-4581-B71E-C56A6B58C5AA}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\C#\\RoutingExample\\RoutingExample\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\ControllerExample\\ControllerExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Models\\Person.cs",
+              "ToolTip": "E:\\Code\\C#\\ControllerExample\\ControllerExample\\Models\\Person.cs",
+              "RelativeToolTip": "ControllerExample\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T06:07:12.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\RoutingExample\\RoutingExample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RoutingExample\\RoutingExample\\Program.cs",
+              "ToolTip": "E:\\Code\\C#\\RoutingExample\\RoutingExample\\Program.cs",
+              "RelativeToolTip": "..\\RoutingExample\\RoutingExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T05:40:50.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\ControllerExample\\ControllerExample\\Program.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Program.cs",
+              "ToolTip": "E:\\Code\\C#\\ControllerExample\\ControllerExample\\Program.cs",
+              "RelativeToolTip": "ControllerExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T03:01:52.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\ControllerExample\\ControllerExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Code\\C#\\ControllerExample\\ControllerExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControllerExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:57:52.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
